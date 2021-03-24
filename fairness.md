@@ -1,5 +1,5 @@
 ---
-title: Fairness in Recommendation
+title: Fairness
 subtitle: Fair representation learning
 layout: "page"
 icon: fa-book
