@@ -5,7 +5,7 @@ layout: "page"
 icon: fa-book
 order: 3
 ---
- 
+
 I love books! Here are some I'm reading now:
 
 1. Robert Burton: *The Anatomy of Melancholy*
