@@ -41,7 +41,7 @@ avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/papernote" # the subpath of your site, e.g. /blog
-url: "https://github.com/newlei" # the base hostname & protocol for your site
+url: "https://newlei.github.io" # the base hostname & protocol for your site
 
 
 # Social settings
