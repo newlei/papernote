@@ -6,7 +6,7 @@ icon: fa-book
 order: 2
 ---
 
-## We focus on fair representation learning in recommendation.
+### We focus on fair representation learning in recommendation.
 
 
 
