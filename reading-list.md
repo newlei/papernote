@@ -6,17 +6,11 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+一些笔记
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+https://app.grammarly.com/
+https://aimwriting.mtutor.engkoo.com/
+这是两个英语语法检测的网站，大家在写论文的时候可以用来帮助检查拼写语法错误等（pdf中复制出的内容要删掉格式）
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+https://www.phrasebank.manchester.ac.uk/introducing-work/
+这是一个写学术论文常用的句子的网站，会对每一部分内容的写法提供一些例句，可以参考
