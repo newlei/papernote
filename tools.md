@@ -14,3 +14,6 @@ https://aimwriting.mtutor.engkoo.com/
 
 https://www.phrasebank.manchester.ac.uk/introducing-work/
 这是一个写学术论文常用的句子的网站，会对每一部分内容的写法提供一些例句，可以参考
+
+语音识别成文字
+https://www.textfromtospeech.com/zh/voice-to-text/
