@@ -1,5 +1,5 @@
 ---
-title: tools
+title: Tools
 subtitle: some important information
 layout: "page"
 icon: fa-book
