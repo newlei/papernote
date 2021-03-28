@@ -1,5 +1,5 @@
 ---
-title: paper list
+title: Paper list
 icon: fa-th
 order: 2
 ---
