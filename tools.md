@@ -3,7 +3,7 @@ title: Tools
 subtitle: some important information
 layout: "page"
 icon: fa-book
-order: 3
+order: 2
 ---
 
 一些笔记
