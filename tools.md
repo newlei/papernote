@@ -17,3 +17,6 @@ https://www.phrasebank.manchester.ac.uk/introducing-work/
 
 语音识别成文字
 https://www.textfromtospeech.com/zh/voice-to-text/
+
+去背景
+https://www.remove.bg/zh/upload
