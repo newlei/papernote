@@ -23,6 +23,3 @@ https://www.remove.bg/zh/upload
 
 超分辨率
 1: http://waifu2x.udp.jp/    2: https://bigjpg.com/
-
-查看期刊的影响因子，(所有年份)[https://jcr.clarivate.com/JCRLandingPageAction.action?wsid=5Fs7DrJ5yzaMaksa7Tb&Init=Yes&SrcApp=IC2LS&SID=H1-qYKl40oMRO8KshiKcl2gaMilpqNGMfgR-18x2dHCOGOwru2DMPrQKQ8eH2vwx3Dx3DEazOZnSwnHJRqVngZVeBkgx3Dx3D-qBgNuLRjcgZrPm66fhjx2Fmwx3Dx3D-h9tQNJ9Nv4eh45yLvkdX3gx3Dx3D#]
-
