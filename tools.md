@@ -23,3 +23,5 @@ https://www.remove.bg/zh/upload
 
 超分辨率
 1: http://waifu2x.udp.jp/    2: https://bigjpg.com/
+
+
