@@ -32,3 +32,6 @@ https://journalprofile.clarivate.com/jif/home/?journal=IEEE%20T%20KNOWL%20DATA%2
 
 绘制函数图像
 https://zh.numberempire.com/graphingcalculator.php?functions=1%2F(1%2Be%5E(-x*0.2))&xmin=-50&xmax=50&ymin=-2&ymax=2&var=x
+
+搜索书
+b-ok.org
