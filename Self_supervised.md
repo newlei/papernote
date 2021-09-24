@@ -30,7 +30,10 @@ SimCLR，MoCo，BYOL，SimSiam，Twins。这几个模型，从前到后是经典
 Deep Graph Infomax代码和论文，用于Graph数据
 https://github.com/PetarV-/DGI
 
-推荐中相关文章3篇
+推荐中相关文章4篇
+Set2setRank: Collaborative Set to Set Ranking for Implicit Feedback based Recommendation(从set角度，通过自监督挖掘隐式反馈信息)
+https://dl.acm.org/doi/abs/10.1145/3404835.3462886
+
 Self-supervised Graph Learning for Recommendation
 https://arxiv.org/pdf/2010.10783.pdf
 
