@@ -20,4 +20,31 @@ order: 4
 
 
 
+CVPR2020 Tutorial，介绍一下大致情况。
+https://abursuc.github.io/slides//2021-cvpr-ssl/ssl-intro.html#1
+CVPR2020 Tutorial，介绍很细致。
+https://abursuc.github.io/slides/2020_tutorial_cvpr//self_supervised_learning.html#1
+
+SimCLR，MoCo，BYOL，SimSiam，Twins。这几个模型，从前到后是经典的几篇文章，展示了发展脉络。
+
+Deep Graph Infomax代码和论文，用于Graph数据
+https://github.com/PetarV-/DGI
+
+推荐中相关文章3篇
+Self-supervised Graph Learning for Recommendation
+https://arxiv.org/pdf/2010.10783.pdf
+
+S3-Rec: Self-Supervised Learning for Sequential
+Recommendation with Mutual Information Maximization
+https://dl.acm.org/doi/pdf/10.1145/3340531.3411954
+
+Self-Supervised Reinforcement Learning for
+Recommender Systems
+https://dl.acm.org/doi/pdf/10.1145/3397271.3401147
+
+分类总结了各种方向上的论文
+https://github.com/jason718/awesome-self-supervised-learning
+
+
+
 
