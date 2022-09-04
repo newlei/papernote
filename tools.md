@@ -38,3 +38,8 @@ b-ok.org
 
 在线打开visio的工具叫：drawio
 https://app.diagrams.net/
+
+查文献
+https://www.semanticscholar.org/ 可以看到论文被那些引用，那些引用的次数多，并且可以显示文章中引用部分的文字
+https://www.connectedpapers.com/ 文章图谱，可以看到文章和其他文章的关系。
+
