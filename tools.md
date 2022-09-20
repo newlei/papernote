@@ -41,5 +41,12 @@ https://app.diagrams.net/
 
 查文献
 https://www.semanticscholar.org/ 可以看到论文被那些引用，那些引用的次数多，并且可以显示文章中引用部分的文字
+
 https://www.connectedpapers.com/ 文章图谱，可以看到文章和其他文章的关系。
 
+
+
+
+https://openreview.net/forum?id=PfuW84q25y9&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2022%2FTrack%2FDatasets_and_Benchmarks%2FAuthors%23your-submissions     腾讯发布一套大规模推荐系统数据集，覆盖10个以上推荐任务，包含数亿的点击行为，4个推荐平台，含有共享用户物品ID（用于跨域推荐和迁移学习），6种user feedback，包含正样本和真实负样本，数十个baseline的源代码。希望对大家research有帮助，也比较适合初学推荐系统同学使用，数据集代码都有（见, appendix）。
+
+对应的代码https://github.com/yuangh-x/2022-NIPS-Tenrec
